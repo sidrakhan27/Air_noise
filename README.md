@@ -12,14 +12,6 @@ The data used in this study includes aircraft noise measurements, aircraft type 
 
 **Model**
 
-The XGBoost model was trained using the following features:
-
-* Aircraft type
-* Aircraft weight
-* Number of engines
-* Wind speed
-* Wind direction
-* Temperature
 
 The model was evaluated using a holdout test set. The accuracy of the model on the test set was 90%.
 
